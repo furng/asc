@@ -1,2 +1,2 @@
 # asc
-Furong Wang's latest masterpiece: calculations run on remote servers, requiring no large storage. A massive upgrade over the previous simple calculator. Supports numeric calculations, one-variable linear equations, function graphs, and calculus. Very powerful, with a heavily redesigned UI. Group: 152155348
+由神之一手整理，负责收录各种apm模块和kpm模块，模块来源可信，无格机行为
